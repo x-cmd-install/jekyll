@@ -5,7 +5,7 @@ about:
   head: 74d7513
   archived: false
   latestVersion: "v4.4.1"
-  collectedAt: 2026-09-07T04:29:25Z
+  collectedAt: 2026-09-07T19:52:16Z
 timeline:
   created: 2008-10-20
   lastCommit: 2026-08-03
@@ -89,7 +89,7 @@ total:
   commit: 11874
 ---
 path: /home/runner/.x-repo/github.com/jekyll/jekyll
-collectedAt: 2026-09-07T04:29:57Z
+collectedAt: 2026-09-07T19:52:32Z
 loc:
   Ruby:
     code: 16911
@@ -305,7 +305,7 @@ checks:
       - 'Warn: 0 commits out of 17 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:29:58+00:00
+  collectedAt: 2026-09-07T19:52:33+00:00
   platform:
     darwin/arm64:
       name:  null
