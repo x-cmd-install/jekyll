@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.4.1"
   latestRelease: "v4.4.1"
   latestPrerelease: "v4.0.0.pre.beta1"
-  collectedAt: 2026-09-09T04:49:45Z
+  collectedAt: 2026-09-09T18:46:24Z
 timeline:
   created: 2008-10-20
   lastCommit: 2026-08-03
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2025-01-29
   lastPrerelease: 2019-08-04
 popularity:
-  star: 51660
+  star: 51655
   watcher: 1402
-  fork: 10301
+  fork: 10298
   release: 112
   contributor: 1058
   pullRequest: 4646
@@ -93,7 +93,7 @@ total:
   commit: 11874
 ---
 path: /home/runner/.x-repo/github.com/jekyll/jekyll
-collectedAt: 2026-09-09T04:49:56Z
+collectedAt: 2026-09-09T18:46:39Z
 loc:
   Ruby:
     code: 16911
