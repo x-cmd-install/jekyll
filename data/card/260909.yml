@@ -308,4 +308,3 @@ checks:
       - 'Info: SAST configuration detected: CodeQL'
       - 'Warn: 0 commits out of 17 are checked with a SAST tool'
 ---
-{"id":197351001,"author":{"login":"jekyllbot","id":6166343,"node_id":"MDQ6VXNlcjYxNjYzNDM=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDN_uTOC8NWWQ","tag_name":"v4.4.1","target_commitish":"master","name":"v4.4.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2025-01-29T12:47:39Z","updated_at":"2025-01-29T12:47:41Z","published_at":"2025-01-29T12:47:41Z","assets":[],"body":"### Bug Fixes\n\n  * Restore globbed path behavior in front matter defaults (#9762)","reactions":{"total_count":40,"+1":23,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":7,"rocket":10,"eyes":0}}
