@@ -4,7 +4,7 @@
 
 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
-![jekyll](https://repo.x-cmd.io/jekyll.svg)
+![jekyll](https://repo.x-cmd.io/jekyll.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install jekyll
 
 - **最新版本**: `v4.4.1` (2025-01-29)
 - **最近提交**: 2026-08-03
-- **发布时间**: 2025-01-29T12:47:41Z
 
 ## 流行度
 
-- **Star**: 51,655 · **Fork**: 10,299 · **开放 issue**: 4,940 · **贡献者**: 1,058
+- **Star**: 51,654 · **Fork**: 10,299 · **开放 issue**: 4,940 · **贡献者**: 1,058
 
 ## 累计统计
 
@@ -71,4 +70,4 @@ jekyll 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:39:07Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:28:24Z._

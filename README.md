@@ -22,11 +22,10 @@ x install jekyll
 
 - **Latest**: `v4.4.1` (2025-01-29)
 - **Last commit**: 2026-08-03
-- **Published**: 2025-01-29T12:47:41Z
 
 ## Popularity
 
-- **Stars**: 51,655 · **Forks**: 10,299 · **Open issues**: 4,940 · **Contributors**: 1,058
+- **Stars**: 51,654 · **Forks**: 10,299 · **Open issues**: 4,940 · **Contributors**: 1,058
 
 ## Totals (cumulative)
 
@@ -67,8 +66,8 @@ Lowest-scoring checks:
 Install metadata for jekyll lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jekyll` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/jekyll.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/jekyll.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:39:06Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:28:24Z._
