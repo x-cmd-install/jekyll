@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.4.1"
   latestRelease: "v4.4.1"
   latestPrerelease: "v4.0.0.pre.beta1"
-  collectedAt: 2026-09-11T00:21:09Z
+  collectedAt: 2026-09-11T04:36:55Z
 timeline:
   created: 2008-10-20
   lastCommit: 2026-08-03
@@ -93,7 +93,7 @@ total:
   commit: 11874
 ---
 path: /home/runner/.x-repo/github.com/jekyll/jekyll
-collectedAt: 2026-09-11T00:21:32Z
+collectedAt: 2026-09-11T04:37:07Z
 loc:
   Ruby:
     code: 16911
