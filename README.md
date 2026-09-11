@@ -12,34 +12,7 @@
 x install jekyll
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/jekyll/jekyll>
-- **Homepage**: <https://jekyllrb.com>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `v4.4.1` (2025-01-29)
-- **Last commit**: 2026-08-03
-
-## Popularity
-
-- **Stars**: 51,654 · **Forks**: 10,299 · **Open issues**: 4,940 · **Contributors**: 1,058
-
-## Totals (cumulative)
-
-- **Releases**: 112 · **Merged PRs**: 3205 · **Open PRs**: 126 · **Closed issues**: 4808 · **Open issues**: 132 · **Commits**: 11874
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 4 | 0 | 2 | 0 |
-| 90d | 2026-06-12 | 0 | 1 | 8 | 2 | 5 | 3 |
-| 360d | 2025-09-15 | 0 | 14 | 31 | 20 | 18 | 27 |
-
-## Code size
+## Code insight
 
 Total: **28,177** lines of code across **259** files in the top 5 languages.
 
@@ -61,6 +34,36 @@ Lowest-scoring checks:
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## Source
+
+- **Upstream**: <https://github.com/jekyll/jekyll>
+- **Homepage**: <https://jekyllrb.com>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v4.4.1` (2025-01-29)
+- **Last commit**: 2026-08-03
+
+## Popularity
+
+- **Stars**: 51,655 · **Forks**: 10,299 · **Open issues**: 4,940 · **Contributors**: 1,058
+
+## Totals (cumulative)
+
+- **Releases**: 112 · **Merged PRs**: 3205 · **Open PRs**: 126 · **Closed issues**: 4808 · **Open issues**: 132 · **Commits**: 11874
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 0 | 4 | 0 | 2 | 0 |
+| last60d | 2026-07-13 | 0 | 1 | 8 | 1 | 3 | 1 |
+| 90d | 2026-06-13 | 0 | 1 | 8 | 2 | 5 | 3 |
+| last180d | 2026-03-15 | 0 | 6 | 16 | 9 | 7 | 11 |
+| 360d | 2025-09-16 | 0 | 14 | 31 | 20 | 18 | 27 |
+| last720d | 2024-09-21 | 2 | 47 | 49 | 57 | 46 | 97 |
+
 ## Improve this data
 
 Install metadata for jekyll lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jekyll` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -70,4 +73,4 @@ Install metadata for jekyll lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:28:24Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:21:49Z._
