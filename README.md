@@ -14,11 +14,11 @@ x install jekyll
 
 ## Code insight
 
-Total: **28,177** lines of code across **259** files in the top 5 languages.
+Total: **28,186** lines of code across **259** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Ruby | 16,911 | 2,894 | 3,530 | 179 |
+| Ruby | 16,919 | 2,894 | 3,534 | 179 |
 | Gherkin | 4,576 | 12 | 357 | 28 |
 | Sass | 2,126 | 235 | 431 | 18 |
 | Yaml | 1,536 | 99 | 186 | 29 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.4.1` (2025-01-29)
-- **Last commit**: 2026-08-03
+- **Last commit**: 2026-09-17
 
 ## Popularity
 
-- **Stars**: 51,674 · **Forks**: 10,300 · **Open issues**: 4,940 · **Contributors**: 1,057
+- **Stars**: 51,677 · **Forks**: 10,300 · **Open issues**: 4,940 · **Contributors**: 1,061
 
 ## Totals (cumulative)
 
-- **Releases**: 112 · **Merged PRs**: 3205 · **Open PRs**: 126 · **Closed issues**: 4808 · **Open issues**: 132 · **Commits**: 11874
+- **Releases**: 112 · **Merged PRs**: 3211 · **Open PRs**: 121 · **Closed issues**: 4810 · **Open issues**: 130 · **Commits**: 11880
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 0 | 2 | 0 | 2 | 0 |
-| last60d | 2026-07-19 | 0 | 1 | 7 | 0 | 2 | 1 |
-| 90d | 2026-06-19 | 0 | 1 | 8 | 1 | 5 | 3 |
-| last180d | 2026-03-21 | 0 | 6 | 15 | 9 | 7 | 11 |
-| 360d | 2025-09-22 | 0 | 14 | 30 | 20 | 18 | 27 |
-| last720d | 2024-09-27 | 2 | 46 | 49 | 56 | 45 | 91 |
+| 30d | 2026-08-19 | 0 | 2 | 2 | 0 | 2 | 9 |
+| last60d | 2026-07-20 | 0 | 6 | 4 | 0 | 2 | 10 |
+| 90d | 2026-06-20 | 0 | 6 | 5 | 1 | 5 | 12 |
+| last180d | 2026-03-22 | 0 | 12 | 11 | 9 | 7 | 20 |
+| 360d | 2025-09-23 | 0 | 20 | 25 | 20 | 18 | 36 |
+| last720d | 2024-09-28 | 2 | 52 | 44 | 57 | 44 | 97 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for jekyll lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T04:53:14Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:37:09Z._
