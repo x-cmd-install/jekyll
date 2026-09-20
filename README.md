@@ -4,7 +4,7 @@
 
 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
-![jekyll](https://repo.x-cmd.io/jekyll.svg)
+[![x-cmd/install — jekyll Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jekyll.svg)](https://x-cmd.com/install/jekyll)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 51,677 · **Forks**: 10,300 · **Open issues**: 4,940 · **Contributors**: 1,061
+- **Stars**: 51,676 · **Forks**: 10,300 · **Open issues**: 4,940 · **Contributors**: 1,060
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 2 | 2 | 0 | 2 | 9 |
-| last60d | 2026-07-20 | 0 | 6 | 4 | 0 | 2 | 10 |
-| 90d | 2026-06-20 | 0 | 6 | 5 | 1 | 5 | 12 |
-| last180d | 2026-03-22 | 0 | 12 | 11 | 9 | 7 | 20 |
-| 360d | 2025-09-23 | 0 | 20 | 25 | 20 | 18 | 36 |
-| last720d | 2024-09-28 | 2 | 52 | 44 | 57 | 44 | 97 |
+| 30d | 2026-08-21 | 0 | 2 | 2 | 0 | 2 | 9 |
+| last60d | 2026-07-22 | 0 | 6 | 3 | 0 | 2 | 10 |
+| 90d | 2026-06-22 | 0 | 6 | 5 | 1 | 5 | 10 |
+| last180d | 2026-03-24 | 0 | 12 | 11 | 9 | 7 | 18 |
+| 360d | 2025-09-25 | 0 | 20 | 25 | 20 | 18 | 36 |
+| last720d | 2024-09-30 | 2 | 52 | 44 | 57 | 44 | 97 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for jekyll lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:37:09Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:49:48Z._
