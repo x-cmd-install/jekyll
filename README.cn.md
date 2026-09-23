@@ -4,7 +4,7 @@
 
 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
-[![x-cmd/install — jekyll Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jekyll.svg?lang=zh)](https://x-cmd.com/install/jekyll)
+[![x-cmd/install — jekyll Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/jekyll.svg?lang=zh)](https://x-cmd.com/install/jekyll)
 
 ## 安装
 
@@ -26,13 +26,13 @@ x install jekyll
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.4 / 10**
+总评分: **6.1 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (4/10) — 2 commit(s) and 3 issue activity found in the last 90 days -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install jekyll
 
 ## 流行度
 
-- **Star**: 51,679 · **Fork**: 10,300 · **开放 issue**: 4,941 · **贡献者**: 1,060
+- **Star**: 51,681 · **Fork**: 10,298 · **开放 issue**: 4,941 · **贡献者**: 1,060
 
 ## 累计统计
 
-- **发布数**: 112 · **已合并 PR**: 3211 · **开放 PR**: 121 · **已关闭 issue**: 4810 · **开放 issue**: 131 · **提交数**: 11880
+- **发布数**: 112 · **已合并 PR**: 3211 · **开放 PR**: 121 · **已关闭 issue**: 4811 · **开放 issue**: 130 · **提交数**: 11880
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 2 | 2 | 0 | 3 | 9 |
-| last60d | 2026-07-24 | 0 | 6 | 3 | 0 | 3 | 10 |
-| 90d | 2026-06-24 | 0 | 6 | 5 | 1 | 6 | 10 |
-| last180d | 2026-03-26 | 0 | 12 | 11 | 9 | 8 | 18 |
-| 360d | 2025-09-27 | 0 | 20 | 25 | 20 | 19 | 36 |
-| last720d | 2024-10-02 | 2 | 52 | 44 | 57 | 45 | 97 |
+| 30d | 2026-08-24 | 0 | 2 | 1 | 1 | 2 | 9 |
+| last60d | 2026-07-25 | 0 | 6 | 3 | 1 | 2 | 10 |
+| 90d | 2026-06-25 | 0 | 6 | 5 | 2 | 5 | 10 |
+| last180d | 2026-03-27 | 0 | 12 | 11 | 10 | 7 | 18 |
+| 360d | 2025-09-28 | 0 | 20 | 25 | 21 | 18 | 36 |
+| last720d | 2024-10-03 | 2 | 52 | 44 | 58 | 44 | 97 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ jekyll 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:46:53Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:38:57Z._
