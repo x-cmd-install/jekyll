@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 51,697 · **Forks**: 10,298 · **Open issues**: 4,941 · **Contributors**: 1,060
+- **Stars**: 51,700 · **Forks**: 10,301 · **Open issues**: 4,941 · **Contributors**: 1,060
 
 ## Totals (cumulative)
 
-- **Releases**: 112 · **Merged PRs**: 3211 · **Open PRs**: 122 · **Closed issues**: 4811 · **Open issues**: 130 · **Commits**: 11880
+- **Releases**: 112 · **Merged PRs**: 3211 · **Open PRs**: 123 · **Closed issues**: 4811 · **Open issues**: 130 · **Commits**: 11880
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 2 | 2 | 1 | 1 | 9 |
-| last60d | 2026-07-31 | 0 | 4 | 4 | 1 | 2 | 9 |
-| 90d | 2026-07-01 | 0 | 6 | 6 | 2 | 5 | 10 |
-| last180d | 2026-04-02 | 0 | 11 | 11 | 10 | 6 | 18 |
-| 360d | 2025-10-04 | 0 | 20 | 26 | 21 | 17 | 36 |
-| last720d | 2024-10-09 | 2 | 52 | 45 | 57 | 44 | 97 |
+| 30d | 2026-08-31 | 0 | 2 | 3 | 1 | 1 | 9 |
+| last60d | 2026-08-01 | 0 | 4 | 5 | 1 | 2 | 9 |
+| 90d | 2026-07-02 | 0 | 6 | 7 | 2 | 5 | 10 |
+| last180d | 2026-04-03 | 0 | 11 | 12 | 10 | 6 | 18 |
+| 360d | 2025-10-05 | 0 | 20 | 27 | 21 | 17 | 36 |
+| last720d | 2024-10-10 | 2 | 51 | 46 | 56 | 44 | 97 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for jekyll lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:40:46Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:26:31Z._
