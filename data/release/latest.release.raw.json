@@ -43,14 +43,14 @@
   "body": "### Bug Fixes\n\n  * Restore globbed path behavior in front matter defaults (#9762)",
   "reactions": {
     "url": "https://api.github.com/repos/jekyll/jekyll/releases/197351001/reactions",
-    "total_count": 40,
+    "total_count": 41,
     "+1": 23,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
     "heart": 7,
-    "rocket": 10,
+    "rocket": 11,
     "eyes": 0
   }
 }
