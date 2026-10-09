@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 112 · **Merged PRs**: 3211 · **Open PRs**: 123 · **Closed issues**: 4811 · **Open issues**: 131 · **Commits**: 11880
+- **Releases**: 112 · **Merged PRs**: 3211 · **Open PRs**: 123 · **Closed issues**: 4812 · **Open issues**: 130 · **Commits**: 11880
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 2 | 3 | 1 | 2 | 9 |
-| last60d | 2026-08-09 | 0 | 4 | 4 | 1 | 3 | 9 |
-| 90d | 2026-07-10 | 0 | 6 | 7 | 2 | 4 | 10 |
-| last180d | 2026-04-11 | 0 | 10 | 12 | 10 | 6 | 18 |
-| 360d | 2025-10-13 | 0 | 20 | 26 | 21 | 18 | 33 |
-| last720d | 2024-10-18 | 2 | 49 | 46 | 54 | 45 | 93 |
+| 30d | 2026-09-09 | 0 | 2 | 2 | 2 | 0 | 9 |
+| last60d | 2026-08-10 | 0 | 4 | 4 | 2 | 2 | 9 |
+| 90d | 2026-07-11 | 0 | 6 | 7 | 3 | 3 | 10 |
+| last180d | 2026-04-12 | 0 | 10 | 12 | 11 | 5 | 18 |
+| 360d | 2025-10-14 | 0 | 19 | 26 | 22 | 17 | 33 |
+| last720d | 2024-10-19 | 2 | 49 | 46 | 55 | 44 | 93 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for jekyll lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T05:59:33Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:01:37Z._
