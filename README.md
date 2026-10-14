@@ -26,7 +26,7 @@ Total: **28,186** lines of code across **259** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.1 / 10**
+Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.4.1` (2025-01-29)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-10-13
 
 ## Popularity
 
-- **Stars**: 51,706 · **Forks**: 10,304 · **Open issues**: 4,942 · **Contributors**: 1,060
+- **Stars**: 51,708 · **Forks**: 10,305 · **Open issues**: 4,942 · **Contributors**: 1,061
 
 ## Totals (cumulative)
 
-- **Releases**: 112 · **Merged PRs**: 3211 · **Open PRs**: 126 · **Closed issues**: 4812 · **Open issues**: 130 · **Commits**: 11880
+- **Releases**: 112 · **Merged PRs**: 3212 · **Open PRs**: 126 · **Closed issues**: 4812 · **Open issues**: 130 · **Commits**: 11881
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 2 | 5 | 2 | 0 | 2 |
-| last60d | 2026-08-14 | 0 | 4 | 7 | 2 | 2 | 9 |
-| 90d | 2026-07-15 | 0 | 6 | 10 | 3 | 3 | 10 |
-| last180d | 2026-04-16 | 0 | 10 | 15 | 10 | 5 | 15 |
-| 360d | 2025-10-18 | 0 | 19 | 29 | 22 | 17 | 33 |
-| last720d | 2024-10-23 | 2 | 49 | 49 | 54 | 43 | 89 |
+| 30d | 2026-09-14 | 0 | 3 | 5 | 2 | 0 | 3 |
+| last60d | 2026-08-15 | 0 | 5 | 7 | 2 | 2 | 10 |
+| 90d | 2026-07-16 | 0 | 7 | 10 | 3 | 3 | 11 |
+| last180d | 2026-04-17 | 0 | 10 | 14 | 10 | 5 | 16 |
+| 360d | 2025-10-19 | 0 | 20 | 29 | 22 | 17 | 34 |
+| last720d | 2024-10-24 | 2 | 49 | 49 | 54 | 43 | 90 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for jekyll lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T06:42:22Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T04:50:42Z._
